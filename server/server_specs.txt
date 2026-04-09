@@ -1,0 +1,29 @@
+## Hardware
+- CPU: Intel Core i5-2400
+  - 4 cores / 4 threads
+  - Base clock: 3.1 GHz
+  - Turbo: up to 3.4 GHz
+  - Cache: 6 MB
+
+- RAM: 8 GB DDR3
+
+- Storage:
+  - 128 GB SSD
+  - 1 TB HDD
+
+- GPU: NVIDIA GeForce GT 1030 2 GB
+
+## Chassis / Platform
+- Form factor: Tower
+- PSU: 280W
+- Optical drive: DVD-RW
+- RAID support: RAID 0/1
+- Weight: 9 kg
+
+## Connectivity / Expansion
+- LAN: Gigabit Ethernet
+- USB: 8x USB 2.0
+- Expansion slots:
+  - 2x PCI
+  - 1x PCIe x16
+  - 1x PCIe x1
